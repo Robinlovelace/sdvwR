@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+*.html
+documentation/
+shf2*
+*.backup
+*.gz
+*.log
+
